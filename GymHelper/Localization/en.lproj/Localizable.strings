@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  GymHelper
+
+  Created by yook on 2023/03/17.
+  
+*/
+
+"Help" = "Fix your smartphone in front of you and start exercising.";
+
+"hi" = "Hello";
+
+"START" = "START";
+
+"Recent Record" = "Recent Record";
+
+"HOWTOUSE" = "How To Use";
+
+"CUSTOM HELP MESSAGE" = "When you're done in CUSTOM MODE, LEVEL MODE standard will be changed";
+
+"DeleteAccount" = "Delete Account";
+
+"LogOut" = "Log Out";
+
+
+"PUSHUP" = "PushUp";
+"LOGTAB" = "Log";
+"Setting" = "Setting";
+
+
+"LEVELMODE" = "LEVEL MODE";
+"CUSTOMMODE" = "CUSTOM MODE";
+
+"PREVIOUSLEVEL" = "PREVIOUS LEVEL";
+"NEXTLEVEL" = "NEXT LEVEL";
+
+"PUSHMESSAGETITLE" = "5 SETS";
+"PUSHMESSAGEBODY" = "Let's do a push-up today! Build a healthy habit together!";

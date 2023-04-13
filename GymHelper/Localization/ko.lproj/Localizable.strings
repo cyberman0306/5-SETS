@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  GymHelper
+
+  Created by yook on 2023/03/17.
+  
+*/
+
+//ko
+"Help" = "정면에 스마트폰을 고정한 후 운동을 시작하세요";
+//ko
+"hi" = "안녕하세요";
+
+//ko
+"START" = "시작";
+//ko
+"Recent Record" = "최근 기록";
+
+
+"HOWTOUSE" = "사용 방법";
+
+"CUSTOM HELP MESSAGE" = "CUSTOM MODE를 완료하면 LEVEL MODE 기준이 변경됩니다";
+
+"DeleteAccount" = "계정 삭제";
+
+"LogOut" = "로그 아웃";
+
+
+"PUSHUP" = "푸쉬업";
+"LOGTAB" = "기록";
+"Setting" = "설정";
+
+"LEVELMODE" = "레벨 모드";
+"CUSTOMMODE" = "커스텀 모드";
+
+"PREVIOUSLEVEL" = "이전 레벨";
+"NEXTLEVEL" = "다음 레벨";
+
+"PUSHMESSAGETITLE" = "5 SETS";
+"PUSHMESSAGEBODY" = "오늘도 푸시업 한 번 해볼까요? 함께 건강한 습관 만들어봐요!";
